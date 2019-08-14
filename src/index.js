@@ -1,5 +1,5 @@
 // index.js
-import say-hello from './say-hello.js';
+import message from 'src/say-hello.js';
 
 console.log(say-hello);
 

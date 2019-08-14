@@ -1,6 +1,7 @@
 // say-hello.js
-function sayHello() {
+const sayHello = () => {
     return "Great, this works!"
+
 }
-export default sayHello
+export default {sayHello}
 
